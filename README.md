@@ -1,4 +1,3 @@
-# Arkadia-Spiral-Console
 p align="center">
   <img src="https://drive.google.com/file/d/1x98qPN297iN1tqYbFeDBjzN7bKMFhGF5/view?usp=drivesdk" alt="Arkadia Spiral Sigil" width="140" />
 </p>
